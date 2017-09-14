@@ -9,7 +9,7 @@ import com.longsh.longshlibrary.PagerSlidingTabStrip;
 public class MainActivity extends AppCompatActivity {
     private PagerSlidingTabStrip tabs;
     private ViewPager pager;
-
+//// TODO: 2017/9/14  
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
